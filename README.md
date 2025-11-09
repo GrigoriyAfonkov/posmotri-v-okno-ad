@@ -1,1 +1,1 @@
-https://github.com/GrigoriyAfonkov/ono-tebe-nado-ad
+https://github.com/GrigoriyAfonkov/posmotri-v-okno-ad
